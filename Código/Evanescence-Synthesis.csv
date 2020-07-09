@@ -1,0 +1,17 @@
+energy,liveness,tempo,speechiness,acousticness,instrumentalness,time_signature,danceability,key,duration_ms,loudness,valence,mode,type,uri
+0.056,0.108,96.103,0.0453,0.963,0.745,5,0.149,9,57560,-20.266,0.0343,1,audio_features,spotify:track:2UiKSagIRbQ4NBeY2NU9f6
+0.589,0.164,124.75,0.0432,0.593,0.000696,4,0.292,4,290547,-5.541,0.0555,0,audio_features,spotify:track:0VVBegPBBdO7Ib1dNusRCC
+0.607,0.106,92.895,0.0314,0.75,0.000278,4,0.447,3,307720,-6.533,0.258,0,audio_features,spotify:track:5JzKZSftEmlmC1U8Okz9Fe
+0.688,0.0932,96.521,0.0375,0.625,6.91e-05,4,0.385,3,274627,-4.109,0.221,0,audio_features,spotify:track:0FRB1hRh8V1Ul2X7qebZs9
+0.646,0.107,137.049,0.0646,0.764,0.000843,3,0.315,4,222507,-5.913,0.332,0,audio_features,spotify:track:1sdEoogkyituxNImbOdXMp
+0.437,0.114,93.819,0.0352,0.348,5.9e-05,4,0.206,10,294693,-6.21,0.0388,1,audio_features,spotify:track:1mViHL4Vo2623ac3CdWT13
+0.785,0.0715,90.962,0.0576,0.608,1.41e-06,4,0.364,4,258577,-3.846,0.186,0,audio_features,spotify:track:7ATcfcvPUqjoL4ZoMPHD3D
+0.163,0.159,147.564,0.0383,0.962,0.921,3,0.18,4,100680,-15.121,0.0563,0,audio_features,spotify:track:3XHnJxU46sgDWyiAtGpDW8
+0.785,0.514,150.206,0.049,0.64,0.000282,4,0.348,4,243613,-3.733,0.248,0,audio_features,spotify:track:7oxeaayoBByZ4yhcipYOXP
+0.631,0.256,95.09,0.0304,0.838,0.000435,3,0.37,4,228560,-6.161,0.281,0,audio_features,spotify:track:0LPH1elXXqJbIHnleEvoVW
+0.299,0.112,109.936,0.0326,0.934,0.0,4,0.323,10,245467,-6.414,0.234,0,audio_features,spotify:track:186h5elEhIYInORTzEk9Mu
+0.523,0.113,112.816,0.0367,0.51,1.51e-05,4,0.237,8,283933,-6.244,0.128,1,audio_features,spotify:track:0lhFMSNufXNvRqYihwDQ0U
+0.563,0.116,93.428,0.0306,0.676,1.49e-06,4,0.483,0,278267,-6.473,0.0761,0,audio_features,spotify:track:75KjpI8VLc0qLyw6T3oKbp
+0.26,0.111,72.517,0.0351,0.908,0.0,4,0.306,9,265667,-7.457,0.162,1,audio_features,spotify:track:1tytktwcHf48COyah7L0oU
+0.0825,0.478,95.503,0.0396,0.973,0.882,4,0.298,7,131893,-19.268,0.0382,0,audio_features,spotify:track:4OHWiqojuSsDiEXQn8ZQtk
+0.832,0.101,83.044,0.0612,0.204,4.38e-05,4,0.528,5,263036,-3.593,0.339,0,audio_features,spotify:track:1DEdn7uVSQktKUNzy0U77f
